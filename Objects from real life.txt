@@ -54,4 +54,7 @@ Behaviors: take photo, record video,turn on/off
 States: water level, flow speed, pollution level
 Behaviors: flow, support wildlife
 
+15.Oven
+States:temperature,timer,mode ,on/off status
+Behaviors:bake,preheat ,change temperature,turn on/off,change time 
 
