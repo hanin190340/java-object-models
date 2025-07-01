@@ -7,3 +7,8 @@ Behaviors: change channel, change volume, turn on/off
 States: speed level, oscillation mode, power status,on/off status
 
 Behaviors: rotate, change speed,turn on/off
+
+3.Microwave
+States: timer, power level, door status,on/off status
+Behaviors: heat food, defrost items,turn on/off
+
