@@ -1,5 +1,9 @@
 1.Television(TV)
-
 States: channel, volume, power status,on/off status
 
 Behaviors: change channel, change volume, turn on/off
+
+2.Fan
+States: speed level, oscillation mode, power status,on/off status
+
+Behaviors: rotate, change speed,turn on/off
