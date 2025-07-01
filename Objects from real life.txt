@@ -1,0 +1,5 @@
+1.Television(TV)
+
+States: channel, volume, power status,on/off status
+
+Behaviors: change channel, change volume, turn on/off
