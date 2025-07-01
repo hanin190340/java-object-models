@@ -22,4 +22,10 @@ Behaviors: support objects, fold
  States: height, leaf color, age
  Behaviors: grow, shed leaves
 
+7.Clock
+States: time, battery level, ticking sound
+Behaviors: show time, alarm
+
+
+
 
