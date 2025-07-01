@@ -12,3 +12,10 @@ Behaviors: rotate, change speed,turn on/off
 States: timer, power level, door status,on/off status
 Behaviors: heat food, defrost items,turn on/off
 
+4.Door
+States: material, lock status, open/closed
+
+Behaviors: open, lock
+
+
+
