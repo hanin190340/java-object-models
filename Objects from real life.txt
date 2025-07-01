@@ -46,6 +46,10 @@ Behaviors: track activity, show notifications,turn on/off
 States: volume level, battery life, pairing status,on/off status,color
 Behaviors: play music, connect via Bluetooth,turn on/off
 
+13.Camera
+States: resolution, storage left, flash mode, battery level,on/off status,color,Memory
+Behaviors: take photo, record video,turn on/off
+
 
 
 
