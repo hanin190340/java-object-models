@@ -1,11 +1,9 @@
 1.Television(TV)
 States: channel, volume, power status,on/off status
-
 Behaviors: change channel, change volume, turn on/off
 
 2.Fan
 States: speed level, oscillation mode, power status,on/off status
-
 Behaviors: rotate, change speed,turn on/off
 
 3.Microwave
@@ -14,11 +12,14 @@ Behaviors: heat food, defrost items,turn on/off
 
 4.Door
 States: material, lock status, open/closed ,size, shape,
-
 Behaviors: open, lock
 
 5.Table
 States: size, shape, material
 Behaviors: support objects, fold
+
+6.Tree
+ States: height, leaf color, age
+ Behaviors: grow, shed leaves
 
 
