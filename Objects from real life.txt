@@ -74,4 +74,7 @@ Behaviors: study, attend class
 States: brightness, resolution, input mode,on/off status,color
 Behaviors: project image, adjust focus,turn on/off
 
+20.Printer
+States: ink level, paper count, connection status,on/off status,color
+Behaviors: print documents, scan pages,turn on/off
 
