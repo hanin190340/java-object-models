@@ -13,9 +13,12 @@ States: timer, power level, door status,on/off status
 Behaviors: heat food, defrost items,turn on/off
 
 4.Door
-States: material, lock status, open/closed
+States: material, lock status, open/closed ,size, shape,
 
 Behaviors: open, lock
 
+5.Table
+States: size, shape, material
+Behaviors: support objects, fold
 
 
