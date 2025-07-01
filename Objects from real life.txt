@@ -26,6 +26,10 @@ Behaviors: support objects, fold
 States: time, battery level, ticking sound
 Behaviors: show time, alarm
 
+8.Pen
+States: ink level, cap on/off, color,type
+Behaviors: write, run out of ink
+
 
 
 
