@@ -58,3 +58,7 @@ Behaviors: flow, support wildlife
 States:temperature,timer,mode ,on/off status
 Behaviors:bake,preheat ,change temperature,turn on/off,change time 
 
+16.Mixer
+States:speedLevel,attachmentType,bowlCapacity,on/off status,color
+Behaviors:mixIngredients,changeSpeed,turn on/off
+
