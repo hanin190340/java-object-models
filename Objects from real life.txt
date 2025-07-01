@@ -62,3 +62,9 @@ Behaviors:bake,preheat ,change temperature,turn on/off,change time
 States:speedLevel,attachmentType,bowlCapacity,on/off status,color
 Behaviors:mixIngredients,changeSpeed,turn on/off
 
+17.Chair
+States:material ,height ,isOccupied ( whether someone is sitting on it true or false)
+Behaviors :adjustHeight ,supportWeight
+
+
+
