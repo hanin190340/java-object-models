@@ -70,4 +70,8 @@ Behaviors :adjustHeight ,supportWeight
 States: grade level, attendance, GPA
 Behaviors: study, attend class
 
+19.Projector
+States: brightness, resolution, input mode,on/off status,color
+Behaviors: project image, adjust focus,turn on/off
+
 
