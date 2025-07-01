@@ -50,6 +50,8 @@ Behaviors: play music, connect via Bluetooth,turn on/off
 States: resolution, storage left, flash mode, battery level,on/off status,color,Memory
 Behaviors: take photo, record video,turn on/off
 
-
+14.River
+States: water level, flow speed, pollution level
+Behaviors: flow, support wildlife
 
 
