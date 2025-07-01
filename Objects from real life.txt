@@ -30,6 +30,10 @@ Behaviors: show time, alarm
 States: ink level, cap on/off, color,type
 Behaviors: write, run out of ink
 
+9.Notebook
+States: number of pages, subject, cover type,color ,open/closed
+Behaviors: store notes, be flipped through,open/closed
+
 
 
 
