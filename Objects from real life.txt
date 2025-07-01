@@ -38,6 +38,9 @@ Behaviors: store notes, be flipped through,open/closed
 States: battery level, mode, screen display,color,on/off status
 Behaviors: perform calculations, reset,turn on/off
 
+11.Smartwatch
+States: heart rate monitor, steps count, battery level
+Behaviors: track activity, show notifications
 
 
 
