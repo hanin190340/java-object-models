@@ -34,6 +34,11 @@ Behaviors: write, run out of ink
 States: number of pages, subject, cover type,color ,open/closed
 Behaviors: store notes, be flipped through,open/closed
 
+10.Calculator
+States: battery level, mode, screen display,color,on/off status
+Behaviors: perform calculations, reset,turn on/off
+
+
 
 
 
