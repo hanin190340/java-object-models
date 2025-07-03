@@ -3,12 +3,12 @@ States: channel, volume, power status,on/off status
 Behaviors: change channel, change volume, turn on/off
 
 2.Fan
-States: speed level, oscillation mode, power status,on/off status
-Behaviors: rotate, change speed,turn on/off
+States: speed level,power status,on/off status
+Behaviors: change speed,turn on/off
 
 3.Microwave
-States: timer, power level, door status,on/off status
-Behaviors: heat food, defrost items,turn on/off
+States: power level, door status,on/off status
+Behaviors: door (open or cloced),turn on/off
 
 4.Door
 States: material, lock status, open/closed ,size, shape,
@@ -18,17 +18,17 @@ Behaviors: open, lock
 States: size, shape, material
 Behaviors: support objects, fold
 
-6.Tree
+6.Chair
  States: height, leaf color, age
- Behaviors: grow, shed leaves
+ Behaviors: sit,standUp,recline,upright()
 
 7.Clock
 States: time, battery level, ticking sound
 Behaviors: show time, alarm
 
 8.Pen
-States: ink level, cap on/off, color,type
-Behaviors: write, run out of ink
+States: cap on/off, color,type
+Behaviors: write or no 
 
 9.Notebook
 States: number of pages, subject, cover type,color ,open/closed
@@ -44,11 +44,11 @@ Behaviors: track activity, show notifications,turn on/off
 
 12.Speaker
 States: volume level, battery life, pairing status,on/off status,color
-Behaviors: play music, connect via Bluetooth,turn on/off
+Behaviors: connect via Bluetooth,turn on/off
 
 13.Camera
 States: resolution, storage left, flash mode, battery level,on/off status,color,Memory
-Behaviors: take photo, record video,turn on/off
+Behaviors: flash on ,turn on/off
 
 14.River
 States: water level, flow speed, pollution level
@@ -62,19 +62,19 @@ Behaviors:bake,preheat ,change temperature,turn on/off,change time
 States:speedLevel,attachmentType,bowlCapacity,on/off status,color
 Behaviors:mixIngredients,changeSpeed,turn on/off
 
-17.Chair
-States:material ,height ,isOccupied ( whether someone is sitting on it true or false),color
-Behaviors :adjustHeight ,supportWeight
+17.mobile
+States:material ,battery life,on/off status
+Behaviors :turn on ,charge
 
 18.Student
 States: grade level, attendance, GPA
-Behaviors: study, attend class
+Behaviors: study GPA, attend class
 
 19.Projector
 States: brightness, resolution, input mode,on/off status,color
-Behaviors: project image, adjust focus,turn on/off
+Behaviors: project image,turn on/off
 
 20.Printer
-States: ink level, paper count, connection status,on/off status,color
-Behaviors: print documents, scan pages,turn on/off
+States:paper count, connection status,on/off status,color
+Behaviors:  scan pages,turn on/off
 
